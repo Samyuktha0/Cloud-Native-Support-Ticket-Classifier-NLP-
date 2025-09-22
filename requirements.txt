@@ -1,0 +1,12 @@
+
+---
+
+### `requirements.txt`
+```txt
+django
+djangorestframework
+scikit-learn
+transformers
+pandas
+psycopg2-binary
+redis
