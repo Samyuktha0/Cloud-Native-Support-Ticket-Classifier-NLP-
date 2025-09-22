@@ -1,0 +1,5 @@
+text,label
+"Server down in EU region","infrastructure"
+"Login issue for multiple users","authentication"
+"Payment gateway timeout","billing"
+"Unable to reset password","authentication"
